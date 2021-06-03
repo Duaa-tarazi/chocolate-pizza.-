@@ -55,15 +55,3 @@ top: -55px;
 right: 45px;
 
 }
-main {
-    border:1px solid blue;
-    border-style: dashed ;
-   margin-top: 20px;
-    margin-left: 55px;
-    width: 90%;
-
-}
-main img {
-    width: 100%;
-    height: 500px;
-}
